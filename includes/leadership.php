@@ -8,7 +8,7 @@ $leaders = [
     'linkedin' => 'https://www.linkedin.com/in/vivek-gupta-4608065/',
   ],
   [
-    'name' => 'Nilakshi',
+    'name' => 'Nilakshi Sengupta',
     'role' => 'Partner – Consumer & Cultural Insights',
     'focus' => 'Qualitative research, cultural analysis & behavioural understanding',
     'bio' => 'Deep expertise in ethnographic programmes, cultural and semiotic interpretation, and consumer narrative synthesis. Ensures human context remains central to strategic decisions.',
